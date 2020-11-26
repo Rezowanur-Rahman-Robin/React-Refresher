@@ -1,0 +1,12 @@
+.new-goal{
+    margin: 2rem;
+    text-align: center;
+
+}
+.new-goal > button{
+    background: cornflowerblue;
+    color: darkblue;
+    font-style: bold;
+    margin-left: 5px;
+    font-weight: 500px;
+}
